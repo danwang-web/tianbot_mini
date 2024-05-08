@@ -23,5 +23,6 @@ echo "source ~/tianbot_mini_ws/devel/setup.bash --extend" >> ~/.bashrc
 
 ## 实现导航
 roslaunch tianbot_mini simulation.launch
+
 roslaunch tianbot_mini amcl.launch
 
