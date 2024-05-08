@@ -20,3 +20,6 @@ catkin_make
 echo "source ~/tianbot_mini_ws/devel/setup.bash --extend" >> ~/.bashrc  
 
 翻车王老师 备 2021.05.08
+
+
+
